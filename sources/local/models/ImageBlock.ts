@@ -16,6 +16,19 @@ export const ImageBlock: Model = {
             localized: false
         },
         {
+            type: 'image',
+            name: 'imageBynder',
+            source: 'bynder'
+        },
+        {
+            type: 'list',
+            name: 'imagesBynder',
+            items: {
+                type: 'image',
+                source: 'bynder'
+            }
+        },
+        {
             type: 'string',
             name: 'altText',
             label: 'Alt text',
