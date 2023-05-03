@@ -20,6 +20,7 @@ export const config = defineStackbitConfig({
     nodeVersion: '16',
     styleObjectModelName: 'ThemeStyle',
     contentSources: [gitContentSource],
+    assetSources: [{ type: 'bynder' }],
     presetSource: {
         type: 'files',
         presetDirs: ['sources/local/presets']
