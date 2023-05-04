@@ -32,7 +32,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
