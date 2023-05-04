@@ -37,6 +37,66 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      imageBynder:
+        __typename: Image
+        id: KEFzc2V0X2lkIDgxOUYyMzBCLUI5QUYtNDZDNi05NDA0RDgwQ0FDOUM1RTNDKQ==
+        databaseId: 819F230B-B9AF-46C6-9404D80CAC9C5E3C
+        type: IMAGE
+        tags: []
+        orientation: PORTRAIT
+        description: null
+        isArchived: false
+        fileSize: 1755462
+        height: 4032
+        width: 3024
+        copyright: null
+        derivatives: {}
+        extensions:
+          - jpg
+        createdBy: {}
+        isWatermarked: false
+        isLimitedUse: false
+        isPublic: false
+        brandId: AC0ADFEC-E194-4CC8-90FF45FC2CB67DA8
+        name: pencils
+        publishedAt: '2022-11-22T20:48:01Z'
+        updatedAt: '2023-03-27T12:42:41Z'
+        createdAt: '2022-11-22T20:48:01Z'
+        files:
+          original:
+            url: >-
+              https://wave-trial.getbynder.com/m/c776232409b83af/original/pencils.JPG
+            width: 3024
+            height: 4032
+            fileSize: 1755462
+          webImage:
+            url: >-
+              https://wave-trial.getbynder.com/m/c776232409b83af/webimage-pencils.jpg
+            width: 450
+            height: 600
+            fileSize: null
+          thumbnail:
+            url: >-
+              https://wave-trial.getbynder.com/m/c776232409b83af/thul-pencils.jpg
+            width: 188
+            height: 250
+            fileSize: null
+          mini:
+            url: >-
+              https://wave-trial.getbynder.com/m/c776232409b83af/mini-pencils.jpg
+            width: 80
+            height: 80
+            fileSize: null
+        url: >-
+          https://wave-trial.getbynder.com/media/?mediaId=819F230B-B9AF-46C6-9404D80CAC9C5E3C
+        originalUrl: >-
+          https://wave-trial.getbynder.com/m/c776232409b83af/original/pencils.JPG
+        selectedFile:
+          url: >-
+            https://wave-trial.getbynder.com/m/c776232409b83af/original/pencils.JPG
+          width: 3024
+          height: 4032
+          fileSize: 1755462
     badge:
       label: This is a badge
       color: text-primary
