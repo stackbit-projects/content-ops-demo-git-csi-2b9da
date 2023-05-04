@@ -97,6 +97,66 @@ sections:
           width: 3024
           height: 4032
           fileSize: 1755462
+      imagesBynder:
+        - __typename: Image
+          id: KEFzc2V0X2lkIEE3Q0Y3QjZFLTBDMzktNEY0NC1BQjNGMzQ2NTA5QTYzMjhGKQ==
+          databaseId: A7CF7B6E-0C39-4F44-AB3F346509A6328F
+          type: IMAGE
+          tags: []
+          orientation: LANDSCAPE
+          description: null
+          isArchived: false
+          fileSize: 21532848
+          height: 3456
+          width: 5184
+          copyright: null
+          derivatives: {}
+          extensions:
+            - jpg
+          createdBy: {}
+          isWatermarked: false
+          isLimitedUse: false
+          isPublic: false
+          brandId: AC0ADFEC-E194-4CC8-90FF45FC2CB67DA8
+          name: kim-cruickshanks-176374
+          publishedAt: '2022-10-13T17:09:53Z'
+          updatedAt: '2023-02-28T11:12:44Z'
+          createdAt: '2022-10-13T17:11:17Z'
+          files:
+            original:
+              url: >-
+                https://wave-trial.getbynder.com/m/45b0d3ba0b271504/original/kim-cruickshanks-176374.jpg
+              width: 5184
+              height: 3456
+              fileSize: 21532848
+            webImage:
+              url: >-
+                https://wave-trial.getbynder.com/m/45b0d3ba0b271504/webimage-kim-cruickshanks-176374.jpg
+              width: 800
+              height: 533
+              fileSize: null
+            thumbnail:
+              url: >-
+                https://wave-trial.getbynder.com/m/45b0d3ba0b271504/thul-kim-cruickshanks-176374.jpg
+              width: 250
+              height: 167
+              fileSize: null
+            mini:
+              url: >-
+                https://wave-trial.getbynder.com/m/45b0d3ba0b271504/mini-kim-cruickshanks-176374.jpg
+              width: 80
+              height: 80
+              fileSize: null
+          url: >-
+            https://wave-trial.getbynder.com/media/?mediaId=A7CF7B6E-0C39-4F44-AB3F346509A6328F
+          originalUrl: >-
+            https://wave-trial.getbynder.com/m/45b0d3ba0b271504/original/kim-cruickshanks-176374.jpg
+          selectedFile:
+            url: >-
+              https://wave-trial.getbynder.com/m/45b0d3ba0b271504/original/kim-cruickshanks-176374.jpg
+            width: 5184
+            height: 3456
+            fileSize: 21532848
     badge:
       label: This is a badge
       color: text-primary
