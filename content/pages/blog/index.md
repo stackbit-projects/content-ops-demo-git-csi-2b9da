@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Hello
+      text: 'Hello world '
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
