@@ -50,5 +50,5 @@ postFeed:
   elementId: null
   variant: three-col-grid
   colors: bg-light-fg-dark
-isDraft: true
+isDraft: false
 ---
