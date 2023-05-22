@@ -1,5 +1,5 @@
 ---
-title: Blog hello
+title: Blog new world
 slug: /blog
 numOfPostsPerPage: 12
 enableSearch: true
