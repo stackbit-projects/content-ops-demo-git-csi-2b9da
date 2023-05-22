@@ -1,5 +1,5 @@
 ---
-title: Home1
+title: Home
 slug: /
 sections:
   - type: CarouselSection
