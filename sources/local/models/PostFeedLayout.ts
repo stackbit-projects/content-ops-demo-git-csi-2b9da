@@ -8,6 +8,7 @@ export const PostFeedLayout: Model = {
     singleInstance: true,
     urlPath: '/blog',
     filePath: 'content/pages/blog/index.md',
+    readOnly: true,
     fieldGroups: [
         {
             name: 'settings',
