@@ -31,6 +31,13 @@ export const PageLayout: Model = {
             localized: false
         },
         {
+            type: 'string',
+            name: 'someString',
+            label: 'Some string',
+            hidden: false,
+            localized: false
+        },
+        {
             type: 'list',
             name: 'sections',
             label: 'Sections',
