@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle one
+    subtitle: This is a subtitle one123
     items:
       - type: FeaturedItem
         title: >-
