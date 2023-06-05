@@ -1,59 +1,132 @@
 ---
-title: Home
+title: Home1
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Unblock your team boost your time to production
-      color: text-dark
-      type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Stackbit website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    elementId: ''
+  - type: CarouselSection
+    subtitle: This is a subtitle one1
+    items:
+      - type: FeaturedItem
+        title: >-
+          “A designer knows he has achieved perfection not when there is nothing
+          left to add, but when there is nothing left to take away.”
+        tagline: Testimonial 1
+        subtitle: 'Maria Walters, Company'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/person-placeholder-light.png
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: >-
+          “Quote from some important person goes right here. I love using
+          Stackbit.”
+        tagline: Testimonial 2
+        subtitle: 'Jane Doe, Company'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder-dark.png
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Stackbit site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    variant: next-prev-nav
     colors: bg-light-fg-dark
     styles:
       self:
-        alignItems: center
-        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: Featured posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    posts:
+      - content/pages/blog/life-of-our-development-team.md
+      - content/pages/blog/surround-yourself-with-right-people.md
+      - content/pages/blog/top-twenty-ways-to-save-time.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    styles:
+      self:
         padding:
           - pt-16
           - pl-16
           - pb-16
           - pr-16
+        justifyContent: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Key Benefits!!
       color: text-dark
       styles:
         self:
@@ -168,6 +241,176 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      text: Unblock your team boost your time to production
+      color: text-dark
+      type: TitleBlock
+    subtitle: Subtitle goes here111
+    text: >
+      A Stackbit website is a git repo that you own. Every code commit is
+      instantly reflected in the visual editor and since every visual edit is a
+      git commit, git workflows and collaboration just work.
+    actions:
+      - label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
+      - label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Link
+    media:
+      url: >-
+        https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
+      altText: Unblock your team boost your time to production preview
+      elementId: ''
+      type: ImageBlock
+      imageBynder:
+        __typename: Image
+        id: KEFzc2V0X2lkIDgxOUYyMzBCLUI5QUYtNDZDNi05NDA0RDgwQ0FDOUM1RTNDKQ==
+        databaseId: 819F230B-B9AF-46C6-9404D80CAC9C5E3C
+        type: IMAGE
+        tags: []
+        orientation: PORTRAIT
+        description: null
+        isArchived: false
+        fileSize: 1755462
+        height: 4032
+        width: 3024
+        copyright: null
+        derivatives: {}
+        extensions:
+          - jpg
+        createdBy: {}
+        isWatermarked: false
+        isLimitedUse: false
+        isPublic: false
+        brandId: AC0ADFEC-E194-4CC8-90FF45FC2CB67DA8
+        name: pencils
+        publishedAt: '2022-11-22T20:48:01Z'
+        updatedAt: '2023-03-27T12:42:41Z'
+        createdAt: '2022-11-22T20:48:01Z'
+        files:
+          original:
+            url: >-
+              https://wave-trial.getbynder.com/m/c776232409b83af/original/pencils.JPG
+            width: 3024
+            height: 4032
+            fileSize: 1755462
+          webImage:
+            url: >-
+              https://wave-trial.getbynder.com/m/c776232409b83af/webimage-pencils.jpg
+            width: 450
+            height: 600
+            fileSize: null
+          thumbnail:
+            url: >-
+              https://wave-trial.getbynder.com/m/c776232409b83af/thul-pencils.jpg
+            width: 188
+            height: 250
+            fileSize: null
+          mini:
+            url: >-
+              https://wave-trial.getbynder.com/m/c776232409b83af/mini-pencils.jpg
+            width: 80
+            height: 80
+            fileSize: null
+        url: >-
+          https://wave-trial.getbynder.com/media/?mediaId=819F230B-B9AF-46C6-9404D80CAC9C5E3C
+        originalUrl: >-
+          https://wave-trial.getbynder.com/m/c776232409b83af/original/pencils.JPG
+        selectedFile:
+          url: >-
+            https://wave-trial.getbynder.com/m/c776232409b83af/original/pencils.JPG
+          width: 3024
+          height: 4032
+          fileSize: 1755462
+      imagesBynder:
+        - __typename: Image
+          id: KEFzc2V0X2lkIDJEODMxOTIyLTNCM0QtNDVFNy04MDJGOTgxRjZDREY4MjY3KQ==
+          databaseId: 2D831922-3B3D-45E7-802F981F6CDF8267
+          type: IMAGE
+          tags: []
+          orientation: LANDSCAPE
+          description: null
+          isArchived: false
+          fileSize: 62475
+          height: 533
+          width: 800
+          copyright: null
+          derivatives: {}
+          extensions:
+            - jpg
+          createdBy: {}
+          isWatermarked: false
+          isLimitedUse: false
+          isPublic: false
+          brandId: AC0ADFEC-E194-4CC8-90FF45FC2CB67DA8
+          name: austin-neill-247047
+          publishedAt: '2022-11-03T09:26:21Z'
+          updatedAt: '2023-02-18T20:02:52Z'
+          createdAt: '2022-11-03T09:26:47Z'
+          files:
+            original:
+              url: >-
+                https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
+              width: 800
+              height: 533
+              fileSize: 62475
+            webImage:
+              url: >-
+                https://wave-trial.getbynder.com/m/68ce663bc967e3ac/webimage-austin-neill-247047.jpg
+              width: 800
+              height: 533
+              fileSize: null
+            thumbnail:
+              url: >-
+                https://wave-trial.getbynder.com/m/68ce663bc967e3ac/thul-austin-neill-247047.jpg
+              width: 250
+              height: 167
+              fileSize: null
+            mini:
+              url: >-
+                https://wave-trial.getbynder.com/m/68ce663bc967e3ac/mini-austin-neill-247047.jpg
+              width: 80
+              height: 80
+              fileSize: null
+          url: >-
+            https://wave-trial.getbynder.com/media/?mediaId=2D831922-3B3D-45E7-802F981F6CDF8267
+          originalUrl: >-
+            https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
+          selectedFile:
+            url: >-
+              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
+            width: 800
+            height: 533
+            fileSize: 62475
+    badge:
+      label: This is a badge
+      color: text-primary
+      type: Badge
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
   - subtitle: Award winning enterprises trust us
     images:
       - url: /images/empathy-logo.svg
@@ -628,4 +871,5 @@ seo:
   socialImage: /images/main-hero.svg
   type: Seo
 type: PageLayout
+someString: sd
 ---
