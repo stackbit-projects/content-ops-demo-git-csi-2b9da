@@ -39,64 +39,64 @@ sections:
       elementId: ''
       url:
         __typename: Image
-        id: KEFzc2V0X2lkIDJEODMxOTIyLTNCM0QtNDVFNy04MDJGOTgxRjZDREY4MjY3KQ==
-        databaseId: 2D831922-3B3D-45E7-802F981F6CDF8267
+        id: KEFzc2V0X2lkIEFGRTQ4RDNFLTVFM0EtNEMyRi1BMzk3MThBRUZFODFBOTg0KQ==
+        databaseId: AFE48D3E-5E3A-4C2F-A39718AEFE81A984
         type: IMAGE
         tags: []
         orientation: LANDSCAPE
-        description: null
+        description: BKM
         isArchived: false
-        fileSize: 62475
-        height: 533
-        width: 800
+        fileSize: 192560
+        height: 768
+        width: 1024
         copyright: null
         derivatives: {}
         extensions:
-          - jpg
+          - png
         createdBy: {}
         isWatermarked: false
         isLimitedUse: false
         isPublic: false
         brandId: AC0ADFEC-E194-4CC8-90FF45FC2CB67DA8
-        name: austin-neill-247047
-        publishedAt: '2022-11-03T09:26:21Z'
-        updatedAt: '2023-06-14T10:39:53Z'
-        createdAt: '2022-11-03T09:26:47Z'
+        name: BKM Board
+        publishedAt: '2022-11-22T19:56:52Z'
+        updatedAt: '2023-04-12T09:55:39Z'
+        createdAt: '2022-11-22T20:00:26Z'
         files:
           original:
             url: >-
-              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
-            width: 800
-            height: 533
-            fileSize: 62475
+              https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/original/BKM-Board.png
+            width: 1024
+            height: 768
+            fileSize: 192560
           webImage:
             url: >-
-              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/webimage-austin-neill-247047.jpg
+              https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/webimage-BKM-Board.png
             width: 800
-            height: 533
+            height: 600
             fileSize: null
           thumbnail:
             url: >-
-              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/thul-austin-neill-247047.jpg
+              https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/thul-BKM-Board.png
             width: 250
-            height: 167
+            height: 188
             fileSize: null
           mini:
             url: >-
-              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/mini-austin-neill-247047.jpg
+              https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/mini-BKM-Board.png
             width: 80
             height: 80
             fileSize: null
         url: >-
-          https://wave-trial.getbynder.com/media/?mediaId=2D831922-3B3D-45E7-802F981F6CDF8267
+          https://wave-trial.getbynder.com/media/?mediaId=AFE48D3E-5E3A-4C2F-A39718AEFE81A984
         originalUrl: >-
-          https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
+          https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/original/BKM-Board.png
         selectedFile:
           url: >-
-            https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
-          width: 800
-          height: 533
-          fileSize: 62475
+            https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/original/BKM-Board.png
+          width: 1024
+          height: 768
+          fileSize: 192560
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
