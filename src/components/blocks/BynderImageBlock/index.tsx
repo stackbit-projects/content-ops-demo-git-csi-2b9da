@@ -37,7 +37,7 @@ export default function BynderImageBlock(props) {
                         : undefined,
                     styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
                 )}
-                src={url.fields?.webImage?.url}
+                src={url.files?.webImage?.url}
                 alt={altText}
             />
         </div>
