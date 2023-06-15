@@ -7,7 +7,8 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/fox.profile0.10bpc.yuv420.avif
+  url: >-
+    https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
