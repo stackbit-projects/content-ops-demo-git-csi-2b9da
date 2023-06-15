@@ -15,6 +15,7 @@ import { FormBlock } from './FormBlock';
 import { GenericSection } from './GenericSection';
 import { Header } from './Header';
 import { ImageBlock } from './ImageBlock';
+import { BynderImageBlock } from './BynderImageBlock';
 import { ImageGallerySection } from './ImageGallerySection';
 import { Link } from './Link';
 import { PageLayout } from './PageLayout';
@@ -61,6 +62,7 @@ export const allModels = {
     GenericSection,
     Header,
     ImageBlock,
+    BynderImageBlock,
     ImageGallerySection,
     Link,
     PageLayout,
