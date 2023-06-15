@@ -46,6 +46,7 @@ const components = {
     FormBlock: dynamic(() => import('./blocks/FormBlock')),
     GenericSection: dynamic(() => import('./sections/GenericSection')),
     ImageBlock: dynamic(() => import('./blocks/ImageBlock')),
+    BynderImageBlock: dynamic(() => import('./blocks/BynderImageBlock')),
     ImageGallerySection: dynamic(() => import('./sections/ImageGallerySection')),
     PostFeedSection: dynamic(() => import('./sections/PostFeedSection')),
     PricingSection: dynamic(() => import('./sections/PricingSection')),
