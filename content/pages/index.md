@@ -39,16 +39,16 @@ sections:
       elementId: ''
       url:
         __typename: Image
-        id: KEFzc2V0X2lkIDgxOUYyMzBCLUI5QUYtNDZDNi05NDA0RDgwQ0FDOUM1RTNDKQ==
-        databaseId: 819F230B-B9AF-46C6-9404D80CAC9C5E3C
+        id: KEFzc2V0X2lkIDJEODMxOTIyLTNCM0QtNDVFNy04MDJGOTgxRjZDREY4MjY3KQ==
+        databaseId: 2D831922-3B3D-45E7-802F981F6CDF8267
         type: IMAGE
         tags: []
-        orientation: PORTRAIT
+        orientation: LANDSCAPE
         description: null
         isArchived: false
-        fileSize: 1755462
-        height: 4032
-        width: 3024
+        fileSize: 62475
+        height: 533
+        width: 800
         copyright: null
         derivatives: {}
         extensions:
@@ -58,45 +58,45 @@ sections:
         isLimitedUse: false
         isPublic: false
         brandId: AC0ADFEC-E194-4CC8-90FF45FC2CB67DA8
-        name: pencils
-        publishedAt: '2022-11-22T20:48:01Z'
-        updatedAt: '2023-03-27T12:42:41Z'
-        createdAt: '2022-11-22T20:48:01Z'
+        name: austin-neill-247047
+        publishedAt: '2022-11-03T09:26:21Z'
+        updatedAt: '2023-06-14T10:39:53Z'
+        createdAt: '2022-11-03T09:26:47Z'
         files:
           original:
             url: >-
-              https://wave-trial.getbynder.com/m/c776232409b83af/original/pencils.JPG
-            width: 3024
-            height: 4032
-            fileSize: 1755462
+              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
+            width: 800
+            height: 533
+            fileSize: 62475
           webImage:
             url: >-
-              https://wave-trial.getbynder.com/m/c776232409b83af/webimage-pencils.jpg
-            width: 450
-            height: 600
+              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/webimage-austin-neill-247047.jpg
+            width: 800
+            height: 533
             fileSize: null
           thumbnail:
             url: >-
-              https://wave-trial.getbynder.com/m/c776232409b83af/thul-pencils.jpg
-            width: 188
-            height: 250
+              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/thul-austin-neill-247047.jpg
+            width: 250
+            height: 167
             fileSize: null
           mini:
             url: >-
-              https://wave-trial.getbynder.com/m/c776232409b83af/mini-pencils.jpg
+              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/mini-austin-neill-247047.jpg
             width: 80
             height: 80
             fileSize: null
         url: >-
-          https://wave-trial.getbynder.com/media/?mediaId=819F230B-B9AF-46C6-9404D80CAC9C5E3C
+          https://wave-trial.getbynder.com/media/?mediaId=2D831922-3B3D-45E7-802F981F6CDF8267
         originalUrl: >-
-          https://wave-trial.getbynder.com/m/c776232409b83af/original/pencils.JPG
+          https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
         selectedFile:
           url: >-
-            https://wave-trial.getbynder.com/m/c776232409b83af/original/pencils.JPG
-          width: 3024
-          height: 4032
-          fileSize: 1755462
+            https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
+          width: 800
+          height: 533
+          fileSize: 62475
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
