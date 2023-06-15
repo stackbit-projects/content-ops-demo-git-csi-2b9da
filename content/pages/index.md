@@ -33,6 +33,10 @@ sections:
     styles:
       self:
         alignItems: center
+    media:
+      type: BynderImageBlock
+      altText: altText of the image
+      elementId: ''
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
