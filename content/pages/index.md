@@ -34,7 +34,7 @@ sections:
       self:
         alignItems: center
         padding:
-          - pt-2
+          - pt-0
     media:
       type: BynderImageBlock
       altText: altText of the image
