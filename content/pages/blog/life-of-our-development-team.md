@@ -8,7 +8,7 @@ excerpt: >-
   asperiores dolore.
 featuredImage:
   url: >-
-    https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
+    https://wave-trial.getbynder.com/m/3f4062a90c644081/original/heidi-fin-2TLREZi7BUg-unsplash.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
