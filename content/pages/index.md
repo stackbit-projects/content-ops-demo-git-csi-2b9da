@@ -41,64 +41,64 @@ sections:
       elementId: ''
       url:
         __typename: Image
-        id: KEFzc2V0X2lkIEFGRTQ4RDNFLTVFM0EtNEMyRi1BMzk3MThBRUZFODFBOTg0KQ==
-        databaseId: AFE48D3E-5E3A-4C2F-A39718AEFE81A984
+        id: KEFzc2V0X2lkIEE3Q0Y3QjZFLTBDMzktNEY0NC1BQjNGMzQ2NTA5QTYzMjhGKQ==
+        databaseId: A7CF7B6E-0C39-4F44-AB3F346509A6328F
         type: IMAGE
         tags: []
         orientation: LANDSCAPE
-        description: BKM
+        description: null
         isArchived: false
-        fileSize: 192560
-        height: 768
-        width: 1024
+        fileSize: 21532848
+        height: 3456
+        width: 5184
         copyright: null
         derivatives: {}
         extensions:
-          - png
+          - jpg
         createdBy: {}
         isWatermarked: false
         isLimitedUse: false
         isPublic: false
         brandId: AC0ADFEC-E194-4CC8-90FF45FC2CB67DA8
-        name: BKM Board
-        publishedAt: '2022-11-22T19:56:52Z'
-        updatedAt: '2023-04-12T09:55:39Z'
-        createdAt: '2022-11-22T20:00:26Z'
+        name: kim-cruickshanks-176374
+        publishedAt: '2022-10-13T17:09:53Z'
+        updatedAt: '2023-02-28T11:12:44Z'
+        createdAt: '2022-10-13T17:11:17Z'
         files:
           original:
             url: >-
-              https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/original/BKM-Board.png
-            width: 1024
-            height: 768
-            fileSize: 192560
+              https://wave-trial.getbynder.com/m/45b0d3ba0b271504/original/kim-cruickshanks-176374.jpg
+            width: 5184
+            height: 3456
+            fileSize: 21532848
           webImage:
             url: >-
-              https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/webimage-BKM-Board.png
+              https://wave-trial.getbynder.com/m/45b0d3ba0b271504/webimage-kim-cruickshanks-176374.jpg
             width: 800
-            height: 600
+            height: 533
             fileSize: null
           thumbnail:
             url: >-
-              https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/thul-BKM-Board.png
+              https://wave-trial.getbynder.com/m/45b0d3ba0b271504/thul-kim-cruickshanks-176374.jpg
             width: 250
-            height: 188
+            height: 167
             fileSize: null
           mini:
             url: >-
-              https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/mini-BKM-Board.png
+              https://wave-trial.getbynder.com/m/45b0d3ba0b271504/mini-kim-cruickshanks-176374.jpg
             width: 80
             height: 80
             fileSize: null
         url: >-
-          https://wave-trial.getbynder.com/media/?mediaId=AFE48D3E-5E3A-4C2F-A39718AEFE81A984
+          https://wave-trial.getbynder.com/media/?mediaId=A7CF7B6E-0C39-4F44-AB3F346509A6328F
         originalUrl: >-
-          https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/original/BKM-Board.png
+          https://wave-trial.getbynder.com/m/45b0d3ba0b271504/original/kim-cruickshanks-176374.jpg
         selectedFile:
           url: >-
-            https://wave-trial.getbynder.com/m/705c1c3ce4d50a63/original/BKM-Board.png
-          width: 1024
-          height: 768
-          fileSize: 192560
+            https://wave-trial.getbynder.com/m/45b0d3ba0b271504/original/kim-cruickshanks-176374.jpg
+          width: 5184
+          height: 3456
+          fileSize: 21532848
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
