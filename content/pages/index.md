@@ -41,16 +41,16 @@ sections:
       elementId: ''
       url:
         __typename: Image
-        id: KEFzc2V0X2lkIEE3Q0Y3QjZFLTBDMzktNEY0NC1BQjNGMzQ2NTA5QTYzMjhGKQ==
-        databaseId: A7CF7B6E-0C39-4F44-AB3F346509A6328F
+        id: KEFzc2V0X2lkIDJEODMxOTIyLTNCM0QtNDVFNy04MDJGOTgxRjZDREY4MjY3KQ==
+        databaseId: 2D831922-3B3D-45E7-802F981F6CDF8267
         type: IMAGE
         tags: []
         orientation: LANDSCAPE
         description: null
         isArchived: false
-        fileSize: 21532848
-        height: 3456
-        width: 5184
+        fileSize: 62475
+        height: 533
+        width: 800
         copyright: null
         derivatives: {}
         extensions:
@@ -60,45 +60,45 @@ sections:
         isLimitedUse: false
         isPublic: false
         brandId: AC0ADFEC-E194-4CC8-90FF45FC2CB67DA8
-        name: kim-cruickshanks-176374
-        publishedAt: '2022-10-13T17:09:53Z'
-        updatedAt: '2023-02-28T11:12:44Z'
-        createdAt: '2022-10-13T17:11:17Z'
+        name: austin-neill-247047
+        publishedAt: '2022-11-03T09:26:21Z'
+        updatedAt: '2023-06-14T10:39:53Z'
+        createdAt: '2022-11-03T09:26:47Z'
         files:
           original:
             url: >-
-              https://wave-trial.getbynder.com/m/45b0d3ba0b271504/original/kim-cruickshanks-176374.jpg
-            width: 5184
-            height: 3456
-            fileSize: 21532848
+              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
+            width: 800
+            height: 533
+            fileSize: 62475
           webImage:
             url: >-
-              https://wave-trial.getbynder.com/m/45b0d3ba0b271504/webimage-kim-cruickshanks-176374.jpg
+              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/webimage-austin-neill-247047.jpg
             width: 800
             height: 533
             fileSize: null
           thumbnail:
             url: >-
-              https://wave-trial.getbynder.com/m/45b0d3ba0b271504/thul-kim-cruickshanks-176374.jpg
+              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/thul-austin-neill-247047.jpg
             width: 250
             height: 167
             fileSize: null
           mini:
             url: >-
-              https://wave-trial.getbynder.com/m/45b0d3ba0b271504/mini-kim-cruickshanks-176374.jpg
+              https://wave-trial.getbynder.com/m/68ce663bc967e3ac/mini-austin-neill-247047.jpg
             width: 80
             height: 80
             fileSize: null
         url: >-
-          https://wave-trial.getbynder.com/media/?mediaId=A7CF7B6E-0C39-4F44-AB3F346509A6328F
+          https://wave-trial.getbynder.com/media/?mediaId=2D831922-3B3D-45E7-802F981F6CDF8267
         originalUrl: >-
-          https://wave-trial.getbynder.com/m/45b0d3ba0b271504/original/kim-cruickshanks-176374.jpg
+          https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
         selectedFile:
           url: >-
-            https://wave-trial.getbynder.com/m/45b0d3ba0b271504/original/kim-cruickshanks-176374.jpg
-          width: 5184
-          height: 3456
-          fileSize: 21532848
+            https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg
+          width: 800
+          height: 533
+          fileSize: 62475
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
