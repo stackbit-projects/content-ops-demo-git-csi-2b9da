@@ -7,8 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: >-
-    https://wave-trial.getbynder.com/m/3f4062a90c644081/original/heidi-fin-2TLREZi7BUg-unsplash.jpg
+  url: /images/fox.profile0.10bpc.yuv420.avif
   altText: Thumbnail
   type: ImageBlock
   styles:
