@@ -24,6 +24,69 @@ export const config = defineStackbitConfig({
     presetSource: {
         type: 'files',
         presetDirs: ['sources/local/presets']
+    },
+    actions: [
+        {
+            name: 'global1',
+            label: 'Global 1',
+            type: 'global',
+            inputFields: [{
+                type: 'string',
+                name: 'testString'
+            }, {
+                type: 'enum',
+                name: 'enumField',
+                options: ['first', 'second', 'third'],
+                controlType: 'button-group'
+            }],
+            run: async () => {
+                await new Promise((resolve) => setTimeout(resolve, 5000));
+                return {
+                    state: 'enabled',
+                    success: 'Yes'
+                }
+            }
+        },
+        {
+            name: 'bulk1',
+            label: 'Bulk 1',
+            type: 'bulk',
+            run: async () => {
+                await new Promise((resolve) => setTimeout(resolve, 5000));
+                return {
+                    state: 'enabled',
+                    success: 'Yes'
+                }
+            }
+        }
+    ],
+    treeViews: (context) => {
+        const docs = context.getDocuments();
+        return Promise.resolve([
+            {
+                label: 'Pages',
+                stableId: 'test',
+                children: [
+                    {
+                        label: 'All pages',
+                        stableId: 'all-pages',
+                        children: docs.filter((doc) => context.getModelByName(doc)?.type === 'page').map((doc) => ({ document: doc }))
+                    },
+                    {
+                        label: 'Posts',
+                        stableId: 'posts-pages',
+                        children: docs.filter((doc) => doc.modelName === 'PostLayout').map((doc) => ({ document: doc }))
+                    }
+                ]
+            },
+            {
+                label: 'All',
+                stableId: 'all',
+                children: docs.map((doc) => ({
+                    document: doc
+                }))
+            },
+        ]);
     }
 });
 
