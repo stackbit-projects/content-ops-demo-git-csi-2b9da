@@ -129,7 +129,7 @@ sections:
         justifyContent: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits!!
+      text: Key Benefits!!!
       color: text-dark
       styles:
         self:
