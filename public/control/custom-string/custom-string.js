@@ -6,7 +6,7 @@ $a5c39f19536557ba$var$initialContextWindow.stackbit.onUpdate = (options)=>{
     const firstName = document.getElementById("firstName");
     const lastName = document.getElementById("lastName");
     const docStringField = options.documentField;
-    const nameParts = docStringField.value?.split(" ") ?? [];
+    const nameParts = docStringField?.value?.split(" ") ?? [];
     firstName.value = nameParts[0] || "";
     lastName.value = nameParts[1] || "";
     if (!options.init) {
