@@ -25,6 +25,24 @@ export const config = defineStackbitConfig({
         type: 'files',
         presetDirs: ['sources/local/presets']
     },
+    viewports: [
+        {
+            label: 'Just width',
+            size: { width: 800 }
+        },
+        {
+            label: 'Just height',
+            size: { height: 500 }
+        },
+        {
+            label: 'Width and height',
+            size: { width: 800, height: 400 }
+        },
+        {
+            label: 'Width and height high res',
+            size: { width: 3000, height: 2000 }
+        }
+    ],
     actions: [
         {
             name: 'global1',
