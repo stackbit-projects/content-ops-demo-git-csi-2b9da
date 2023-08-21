@@ -18,7 +18,7 @@ $a5c39f19536557ba$var$initialContextWindow.stackbit.onUpdate = (options)=>{
                         fieldPath: options.fieldPath,
                         modelField: options.modelField,
                         field: {
-                            type: docStringField.type,
+                            type: docStringField?.type ?? 'string',
                             value: `${firstName.value} ${lastName.value}`.trim()
                         }
                     }
