@@ -100,7 +100,7 @@ sections:
           height: 533
           fileSize: 62475
     moodInline: Test Other
-    moodFrame: Test
+    moodFrame: Test Other
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
