@@ -10,13 +10,13 @@ export const GenericSection: Model = {
             name: 'moodInline',
             type: 'string',
             controlType: 'custom-inline-html',
-            controlUrl: '/control/custom-string/custom-string.html'
+            controlFilePath: '/control/custom-string/custom-string.html'
         },
         {
             name: 'moodFrame',
             type: 'string',
             controlType: 'custom-modal-html',
-            controlUrl: '/control/custom-string/custom-string.html'
+            controlFilePath: '/control/custom-string/custom-string.html'
         },
         {
             type: 'model',
