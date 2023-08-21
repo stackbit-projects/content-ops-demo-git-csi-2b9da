@@ -9,7 +9,7 @@ $a5c39f19536557ba$var$initialContextWindow.stackbit.onUpdate = (options)=>{
     const nameParts = docStringField?.value?.split(" ") ?? [];
     firstName.value = nameParts[0] || "";
     lastName.value = nameParts[1] || "";
-    if (!options.init) {
+    if (options.init) {
         const update = function() {
             options.updateDocument({
                 operations: [
