@@ -99,6 +99,7 @@ sections:
           width: 800
           height: 533
           fileSize: 62475
+    moodInline: Test
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
