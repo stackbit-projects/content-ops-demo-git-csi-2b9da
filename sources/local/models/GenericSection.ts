@@ -7,6 +7,18 @@ export const GenericSection: Model = {
     labelField: 'title.text',
     fields: [
         {
+            name: 'moodInline',
+            type: 'string',
+            controlType: 'custom-inline-html',
+            controlUrl: '/control/custom-string/custom-string.html'
+        },
+        {
+            name: 'moodFrame',
+            type: 'string',
+            controlType: 'custom-modal-html',
+            controlUrl: '/control/custom-string/custom-string.html'
+        },
+        {
             type: 'model',
             name: 'title',
             label: 'Title',

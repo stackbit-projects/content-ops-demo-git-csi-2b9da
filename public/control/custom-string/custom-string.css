@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.custom-label {
+    margin-bottom: 8px;
+    font-family: ES Klarheit Grotesk, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.control-container {
+    margin-bottom: 8px;
+}
+
+.control-container:last-child {
+    margin-bottom: 0;
+}
+
+.moods-container {
+    flex-wrap: wrap;
+    width: 100%;
+    display: flex;
+}
+
+.moods-container .mood {
+    text-align: center;
+    width: 33.3333%;
+    font-family: sans-serif;
+    font-size: 300%;
+}
