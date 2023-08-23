@@ -56,6 +56,9 @@ export const config = defineStackbitConfig({
                 name: 'enumField',
                 options: ['first', 'second', 'third'],
                 controlType: 'button-group'
+            }, {
+                type: 'markdown',
+                name: 'markdownField'
             }],
             run: async () => {
                 await new Promise((resolve) => setTimeout(resolve, 5000));
