@@ -1,0 +1,27 @@
+{
+    "model": "TitleBlock",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "das",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "as"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "text": "Featured posts",
+                "color": "text-dark",
+                "styles": {
+                    "self": {
+                        "textAlign": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/title-block-das-8289.png"
+        }
+    ]
+}
