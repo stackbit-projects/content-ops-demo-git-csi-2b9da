@@ -8,6 +8,7 @@ const nextConfig = {
     trailingSlash: true,
     webpack: (config) => {
         config.watchOptions.ignored.push('**/content/pages/**');
+        console.log('start');
         return config;
     }
 };
