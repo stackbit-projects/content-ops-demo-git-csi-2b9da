@@ -1,0 +1,138 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "1",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "1"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "moodInline": "Test Other",
+                "moodFrame": "Test Other",
+                "title": {
+                    "text": "Social Media Management12345",
+                    "color": "text-dark",
+                    "styles": null,
+                    "$$type": "TitleBlock"
+                },
+                "subtitle": "Increase your reach",
+                "text": "A service that helps businesses to manage their social media accounts and posts.\n",
+                "actions": [
+                    {
+                        "label": "Get started",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null,
+                        "$$type": "Button"
+                    },
+                    {
+                        "label": "See Tutorials",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null,
+                        "$$type": "Link"
+                    }
+                ],
+                "media": {
+                    "url": {
+                        "__typename": "Image",
+                        "id": "KEFzc2V0X2lkIDJEODMxOTIyLTNCM0QtNDVFNy04MDJGOTgxRjZDREY4MjY3KQ==",
+                        "databaseId": "2D831922-3B3D-45E7-802F981F6CDF8267",
+                        "type": "IMAGE",
+                        "tags": [],
+                        "orientation": "LANDSCAPE",
+                        "description": null,
+                        "isArchived": false,
+                        "fileSize": 62475,
+                        "height": 533,
+                        "width": 800,
+                        "copyright": null,
+                        "derivatives": {},
+                        "extensions": [
+                            "jpg"
+                        ],
+                        "createdBy": {},
+                        "isWatermarked": false,
+                        "isLimitedUse": false,
+                        "isPublic": false,
+                        "brandId": "AC0ADFEC-E194-4CC8-90FF45FC2CB67DA8",
+                        "name": "austin-neill-247047",
+                        "publishedAt": "2022-11-03T09:26:21Z",
+                        "updatedAt": "2023-06-14T10:39:53Z",
+                        "createdAt": "2022-11-03T09:26:47Z",
+                        "files": {
+                            "original": {
+                                "url": "https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg",
+                                "width": 800,
+                                "height": 533,
+                                "fileSize": 62475
+                            },
+                            "webImage": {
+                                "url": "https://wave-trial.getbynder.com/m/68ce663bc967e3ac/webimage-austin-neill-247047.jpg",
+                                "width": 800,
+                                "height": 533,
+                                "fileSize": null
+                            },
+                            "thumbnail": {
+                                "url": "https://wave-trial.getbynder.com/m/68ce663bc967e3ac/thul-austin-neill-247047.jpg",
+                                "width": 250,
+                                "height": 167,
+                                "fileSize": null
+                            },
+                            "mini": {
+                                "url": "https://wave-trial.getbynder.com/m/68ce663bc967e3ac/mini-austin-neill-247047.jpg",
+                                "width": 80,
+                                "height": 80,
+                                "fileSize": null
+                            }
+                        },
+                        "url": "https://wave-trial.getbynder.com/media/?mediaId=2D831922-3B3D-45E7-802F981F6CDF8267",
+                        "originalUrl": "https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg",
+                        "selectedFile": {
+                            "url": "https://wave-trial.getbynder.com/m/68ce663bc967e3ac/original/austin-neill-247047.jpg",
+                            "width": 800,
+                            "height": 533,
+                            "fileSize": 62475
+                        }
+                    },
+                    "altText": "altText of the image",
+                    "elementId": "",
+                    "styles": null,
+                    "$$type": "BynderImageBlock"
+                },
+                "badge": {
+                    "label": "This is a badge",
+                    "color": "text-primary",
+                    "styles": null,
+                    "$$type": "Badge"
+                },
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "padding": [
+                            "pt-0"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-1-e119.png"
+        }
+    ]
+}
