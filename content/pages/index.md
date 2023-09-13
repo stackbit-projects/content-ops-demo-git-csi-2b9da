@@ -8,7 +8,7 @@ sections:
       text: Social Media Management12345
       color: text-dark
     subtitle: Increase your reach
-    text: '0.04406070049238631'
+    text: '0.7148634794904858'
     actions:
       - type: Button
         label: Get started
