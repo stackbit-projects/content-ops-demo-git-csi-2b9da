@@ -44,7 +44,56 @@ export const GenericSection: Model = {
             default:
                 'Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.\nAenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet\nerat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat\nvitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.',
             hidden: false,
-            localized: false
+            localized: false,
+            actions: [
+                {
+                    name: 'doc_action1',
+                    label: 'Doc Action 1',
+                    type: 'field',
+                    run: async (options) => {
+                        const document = options.currentPageDocument;
+                        if (!document) return;
+                        // Send feedback in the appropriate context
+                        const logger = options.getLogger();
+                        logger.debug(`Running generate-title action on page: ${document.id}`);
+                        // Generate title
+                        // Update the document with the new random title
+                        options.contentSourceActions.updateDocument({
+                            document,
+                            userContext: options.getUserContextForContentSourceType(
+                                document.srcType,
+                            ),
+                            operations: [
+                                {
+                                    opType: 'set',
+                                    fieldPath: options.fieldPath,
+                                    modelField: options.modelField,
+                                    field: { type: 'markdown', value: Math.random().toString() },
+                                },
+                            ],
+                        });
+                    }
+                },
+                {
+                    name: 'doc_action2',
+                    label: 'Doc Action 2',
+                    type: 'field',
+                    run: async (options) => {
+                        const logger = options.getLogger();
+                        logger.debug('running doc action');
+                        return {
+                            state: 'enabled',
+                            error: 'Yes baby'
+                        };
+                    },
+                    inputFields: [
+                        {
+                            type: 'string',
+                            name: 'string'
+                        }
+                    ]
+                },
+            ]
         },
         {
             type: 'list',
