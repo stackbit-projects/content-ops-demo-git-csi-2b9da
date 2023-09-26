@@ -2,55 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: ImageGallerySection
-    subtitle: Our customers
-    images:
-      - type: ImageBlock
-        imagesBynder: []
-        altText: Empathy logo
-        elementId: ''
-      - type: ImageBlock
-        imagesBynder: []
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
-        imagesBynder: []
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
-        imagesBynder: []
-        altText: Telus logo
-        elementId: ''
-      - type: ImageBlock
-        imagesBynder: []
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
-        imagesBynder: []
-        altText: Sanity logo
-        elementId: ''
-      - type: ImageBlock
-        imagesBynder: []
-        altText: Rangle logo
-        elementId: ''
-    elementId: ''
-    motion: static
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: GenericSection
     title:
       type: TitleBlock
