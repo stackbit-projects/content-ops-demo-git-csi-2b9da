@@ -97,7 +97,7 @@ sections:
           width: 800
           height: 533
           fileSize: 62475
-    moodInline: Test Other
+    moodInline: Tester Other
     moodFrame: Test Other
   - type: FeaturedPostsSection
     title:
