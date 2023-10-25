@@ -25,6 +25,13 @@ export const config = defineStackbitConfig({
         type: 'files',
         presetDirs: ['sources/local/presets']
     },
+    experimental: {
+        ssg: {
+            logPatterns: {
+                up: []
+            }
+        }
+    },
     viewports: [
         {
             label: 'Just width',
