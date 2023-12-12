@@ -25,7 +25,7 @@ sections:
         style: primary
     badge:
       type: Badge
-      label: This is a badge
+      label: This is a badge!
       color: text-primary
     colors: bg-light-fg-dark
     styles:
