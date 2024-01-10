@@ -93,6 +93,11 @@ export const config = defineStackbitConfig({
             return false;
         }
     },
+    filterDocument: (context) => {
+        if (options.document.id === 'content/pages/careers.md') {
+            return false;
+        }
+    }
     treeViews: (context) => {
         const docs = context.getDocuments();
         return Promise.resolve([
