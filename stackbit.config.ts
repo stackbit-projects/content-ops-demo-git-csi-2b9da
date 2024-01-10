@@ -88,6 +88,11 @@ export const config = defineStackbitConfig({
             }
         }
     ],
+    filterModel: (context) => {
+        if (context.model.name === 'PostLayout') {
+            return false;
+        }
+    },
     treeViews: (context) => {
         const docs = context.getDocuments();
         return Promise.resolve([
