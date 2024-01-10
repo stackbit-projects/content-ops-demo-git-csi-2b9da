@@ -31,6 +31,10 @@ export const PostLayout: Model = {
     ],
     fields: [
         {
+            type: 'boolean',
+            name: 'test',
+        },
+        {
             type: 'string',
             name: 'title',
             label: 'Title',
