@@ -89,13 +89,13 @@ export const config = defineStackbitConfig({
         }
     ],
     filterModel: (context) => {
-        context.getLogger().debug('filterModel>>>', context.model.name)
+        context.getLogger().debug(`filterModel>>>${context.model.name}`)
         if (context.model.name === 'PostLayout') {
             return false;
         }
     },
     filterDocument: (context) => {
-        context.getLogger().debug('filerDocumnt>>>', context.document.id)
+        context.getLogger().debug(`filerDocumnt>>>${context.document.id}`)
         if (context.document.id === 'content/pages/careers.md') {
             return false;
         }
