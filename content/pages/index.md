@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management12345
+      text: Social Media Management12345!
       color: text-dark
     subtitle: Increase your reach
     text: '0.5553218707402394'
